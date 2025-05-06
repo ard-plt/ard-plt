@@ -1,15 +1,15 @@
-# Hi there, I'm ard-plt! 👋
+# Hi there, I'm Arda Polat 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to open-source projects. Here's a little bit about me:
 
 ## 🚀 About Me
 - **Name:** Arda POLAT
-- **Location:** [Your Location]
+- **Location:** Turkey
 - **Interests:** Open-source contributions, DevOps, Cloud Computing, Machine Learning
 - **Hobbies:** Coding, Reading, Hiking, Gaming
 
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C/C++, Matlab
+- **Languages:** Verilog, Python, C/C++, Matlab
 - **Frameworks:** React, Node.js, Django, Spring Boot
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Databases:** MySQL, PostgreSQL, MongoDB
