@@ -29,8 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Networking fundamentals and protocols**  
 
 ## 📫 How to Reach Me
-- **Email:** [your-email@example.com]  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)  
+- **LinkedIn:** (www.linkedin.com/in/ardaplt)
 
 ## 🤝 Open to Work
 I'm always open to exciting job opportunities and collaborations. Feel free to reach out if you have something in mind!
