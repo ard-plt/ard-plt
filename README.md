@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🌱 What I'm Currently Learning
 - Advanced Machine Learning techniques   
-- **Cybersecurity** (with a focus on Kali Linux tools)  
+- **Cybersecurity** 
 - **Networking fundamentals and protocols**  
 
 ## 📫 How to Reach Me
